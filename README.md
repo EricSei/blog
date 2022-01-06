@@ -1,2 +1,7 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Blog Scaling with AWS [S3]
+
+# Technology Stack
+## React, Redux, Node, Express, MongoDb, S3
+
+# Inspired and boostrapted from Stephen Grinder's Advanced Node Udem Course
+
